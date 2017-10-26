@@ -1,12 +1,13 @@
-[![Binder](https://beta.mybinder.org/badge.svg)](https://beta.mybinder.org/v2/gh/marcolussetti/python4data2017/master)
-
 # Intro to using Python for Data Analysis and some other miscellaneous things
-- Data Manipulation & Visualization
-    - [Commands only](Data.ipynb)
-    - [Commands & Output](Data-Filled.ipynb)
+- [Slides](https://docs.google.com/presentation/d/1pHRQa0ZEbmifo7AMeVCXzw2f42tmwGhhaOW5-VV7cUs/edit?usp=sharing)
+- Notebooks
+    - [Iterations](Iterations.ipynb)
+    - [Data Manipulation & Visualization](Data.ipynb)
+        - [Also with output](Data-Filled.ipynb)
+    - Bonus: [Concurrency](Concurrency.ipynb)
 
 ## Running the Notebooks in the Cloud
-- You can clone this repository on Azure Notebooks and keep the history: __[Azure Notebooks](https://notebooks.azure.com/marcolussetti/libraries/python4data2017)__
+- _Recommended:_ You can clone this repository on Azure Notebooks and keep the history: __[Azure Notebooks](https://notebooks.azure.com/marcolussetti/libraries/python4data2017)__
     - Use 'Clone' to create your own copy of the repository
 - You can use Binder to spin up a temporary temporary instance with the notebooks: [![Binder](https://beta.mybinder.org/badge.svg)](https://beta.mybinder.org/v2/gh/marcolussetti/python4data2017/master)
     - It will take you to a free hosted service that lets you experiment. Please note that any changes won't be saved to this repository or your computer.
